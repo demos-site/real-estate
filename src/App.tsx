@@ -8,7 +8,7 @@ import PropertyDetail from './pages/PropertyDetail';
 import AgentProfile from './pages/AgentProfile';
 import Contact from './pages/Contact';
 import Login from './pages/Login';
-import Dashboard from './pages/Dashboard';
+import Dashboard from './pages/dashboard';
 
 // Route Guard for Admin Dashboard
 const ProtectedRoute: React.FC<{ children: React.ReactNode }> = ({ children }) => {
